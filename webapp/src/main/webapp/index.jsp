@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Form</title>
+    <title>Survey Form</title>
     <link rel="stylesheet" href="test.css">
 </head>
 <body>
     <!-- form container -->
 <div class="container">
-    <h1 class="main-heading">Survey Form:</h1>
+    <h1 class="main-heading">General Survey Form:</h1>
     <hr>
     <!-- form start -->
     <form class="form-class">
