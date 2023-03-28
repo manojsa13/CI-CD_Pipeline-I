@@ -10,7 +10,7 @@
 <body>
     <!-- form container -->
 <div class="container">
-    <h1 class="main-heading">General Survey Form:</h1>
+    <h1 class="main-heading">Survey Form:</h1>
     <hr>
     <!-- form start -->
     <form class="form-class">
