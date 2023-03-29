@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>2K23 Survey Form</title>
+    <title>2023 Survey Form</title>
     <link rel="stylesheet" href="test.css">
 </head>
 <body>
@@ -19,7 +19,7 @@
       <div class="form-control">
   
         <div class="heading-field">
-          <h3 class="field-head">Customer Name </h3>
+          <h3 class="field-head">Customer Full Name </h3>
         </div>
         <div class="field-inputs">
           <div class="input-div">
