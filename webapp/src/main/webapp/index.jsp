@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Survey Form 2023</title>
+    <title>2K23 Survey Form</title>
     <link rel="stylesheet" href="test.css">
 </head>
 <body>
@@ -44,7 +44,7 @@
         <div>
           <div class="input-div">
             <input type="text" class="form-control-input" id="street-address" name="address" required>
-            <div id="street-address-help" class="help-text">Street Address</div>
+            <div id="street-address-help" class="help-text">Street Address Line 1</div>
           </div>
         </div>
         <div>
